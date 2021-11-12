@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fakeria
 - 👀 I’m interested in Web developement and programming, coding games.
 - 🌱 I’m currently learning Java, Php, git.
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me @fakeria1 on twitter.
 
 <!---
